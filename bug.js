@@ -1,0 +1,1 @@
+While working on an Expo project, I encountered an issue where the Metro bundler failed to resolve a specific module despite it being correctly installed and listed in the package.json file. This led to runtime errors and prevented the application from running as expected. The error message from Metro was not very informative, only indicating that the module was not found.
