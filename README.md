@@ -1,0 +1,3 @@
+# Expo CLI Metro Bundler Resolution Failure
+
+This repository demonstrates a bug where the Expo CLI's Metro bundler fails to resolve a correctly installed module.  The issue is characterized by a cryptic error message from Metro, providing little guidance on the root cause.  The solution involves verifying module installation, checking for conflicts in package names or versions, and potentially clearing the cache and restarting the bundler.
